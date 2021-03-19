@@ -1,0 +1,2 @@
+C:\Users\kkm05\Documents\cg\opengl_example\build\dep_glad-prefix\src\dep_glad-build\Debug\glad.pdb
+C:\Users\kkm05\Documents\cg\opengl_example\build\dep_glad-prefix\src\dep_glad-build\glad.dir\Debug\glad.pdb
