@@ -1,5 +1,0 @@
-C:/Users/kkm05/Documents/cg/opengl_example/build/dep_glad-prefix/src/dep_glad-build/CMakeFiles/glad-generate-files.dir
-C:/Users/kkm05/Documents/cg/opengl_example/build/dep_glad-prefix/src/dep_glad-build/CMakeFiles/glad.dir
-C:/Users/kkm05/Documents/cg/opengl_example/build/dep_glad-prefix/src/dep_glad-build/CMakeFiles/INSTALL.dir
-C:/Users/kkm05/Documents/cg/opengl_example/build/dep_glad-prefix/src/dep_glad-build/CMakeFiles/ALL_BUILD.dir
-C:/Users/kkm05/Documents/cg/opengl_example/build/dep_glad-prefix/src/dep_glad-build/CMakeFiles/ZERO_CHECK.dir
